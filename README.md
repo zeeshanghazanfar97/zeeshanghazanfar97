@@ -57,7 +57,7 @@
 ## 📞 Contact
 - **Email:** [zeeshanghazanfar97@gmail.com](mailto:zeeshanghazanfar97@gmail.com)
 - **LinkedIn:** [linkedin.com/in/zeeshanghazanfar24](https://www.linkedin.com/in/zeeshanghazanfar24)
-- **GitHub:** [github.com/zeeshanghazanfar97](https://github.com/zeeshanghazanfar97)
+- **Website:** [izeeshan.dev](https://izeeshan.dev)
 - **Upwork:** [upwork.com/freelancers/~011ff4ab57a9bb3942](https://www.upwork.com/freelancers/~011ff4ab57a9bb3942?mp_source=share)
 
 
