@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Zeeshan Ghazanfar!
+[![wakatime](https://wakatime.com/badge/user/4b9f34e2-01ef-4c7d-9191-11e96c911252.svg)](https://wakatime.com/@4b9f34e2-01ef-4c7d-9191-11e96c911252)
 
 **Backend Engineer | Data Enthusiast | AI & Cloud Innovator**
 
