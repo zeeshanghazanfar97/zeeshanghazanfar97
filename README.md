@@ -13,6 +13,12 @@
 
 ## 💼 Experience
 
+### Full-stack Developer (Remote) @ [BrainPack](https://brainpack.io)  
+**Duration:** 02/2025 - Present  
+**Location:** 📍 Lefkosia, Cyprus  
+- 🧠 Contributing to AI backend development for BrainPack’s AI-Powered Digital Transformation Platform.  
+- 🔗 Ensuring seamless integration and maximizing business impact for organizations transitioning to digital operations.  
+
 ### Backend Developer (Remote) @ [Phonely](https://phonely.ai)
 **Duration:** 01/2024 - 02/2025
 **Location:** 📍 California, USA
